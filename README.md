@@ -25,15 +25,14 @@ Excel / Google Sheets
 Jira (optional)
 Browser (Chrome)
 #🐞 Bug Reporting Format
-
-#Each bug includes:
-
+Each bug includes:
 Bug ID
 Description
 Steps to Reproduce
 Expected Result
 Actual Result
 Severity & Priority
+
 #📊 Test Case Format
 Test Case ID
 Test Scenario
