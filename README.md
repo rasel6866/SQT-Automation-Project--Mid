@@ -25,6 +25,8 @@ Reports → Final test execution reports
 Excel / Google Sheets
 Jira (optional)
 Browser (Chrome)
+
+
 #🐞 Bug Reporting Format
 Each bug includes:
 Bug ID
