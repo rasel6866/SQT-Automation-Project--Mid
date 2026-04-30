@@ -1,43 +1,49 @@
-# Software-Quality-Testing-Automation-Project-SQTAP
-#🧪 Software Quality Testing Project (SQT)
+# Blood Management System - Automated Testing
 
-📌 Project Overview
-This project demonstrates a complete Software Quality Testing (SQT) process including test planning, test case design, execution, and bug reporting.
-#🎯 Objectives
-Ensure software quality and reliability
-Identify bugs and issues
-Validate system functionality
-🛠️ Testing Types Used
-Manual Testing
-Functional Testing
-Regression Testing
-Smoke Testing
+![Selenium](https://img.shields.io/badge/Selenium-Automation-red)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-#📂 Project Structure
-Test Plan → Testing strategy and scope
-Test Cases → Detailed test cases
-Test Scenarios → High-level scenarios
-Bug Reports → Identified defects
-Reports → Final test execution reports
-🧾 Tools Used
-Excel / Google Sheets
-Jira (optional)
-Browser (Chrome)
+## Project Overview
+This project demonstrates automated testing of a Blood Management System using Selenium and Python.  
+It focuses on testing the core functionalities of a blood donation and blood request platform.  
+The system runs on a local environment using XAMPP with a MySQL database.
 
+## Tools & Technologies Used
 
-#🐞 Bug Reporting Format
-Each bug includes:
-Bug ID
-Description
-Steps to Reproduce
-Expected Result
-Actual Result
-Severity & Priority
+- Python  
+- Selenium WebDriver  
+- Chrome Browser  
+- ChromeDriver  
+- XAMPP (Apache & MySQL)  
+- MySQL Database  
 
-#📊 Test Case Format
-Test Case ID
-Test Scenario
-Steps
-Expected Result
-Actual Result
-Status (Pass/Fail)
+## Features Tested
+
+### 🩸 Donor
+- Registration  
+- Login  
+- Update Profile  
+- Blood Donation Request  
+- Logout  
+
+### 🏥 Receiver
+- Registration  
+- Login  
+- Search Blood  
+- Blood Request Submission  
+- Logout  
+
+### 👨‍💼 Admin
+- Login  
+- Donor Management  
+- Blood Stock Management  
+- Request Approval  
+- Logout  
+
+## Setup Instructions
+
+1. Install Python  
+2. Install Selenium  
+   ```bash
+   pip install selenium
