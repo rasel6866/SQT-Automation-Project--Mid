@@ -1,15 +1,15 @@
-# Blood Management System - Automated Testing
+# 🩸Blood Management System - Automated Testing🩸
 
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-red)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## Project Overview
+## Project Overview📜
 This project demonstrates automated testing of a Blood Management System using Selenium and Python.  
 It focuses on testing the core functionalities of a blood donation and blood request platform.  
 The system runs on a local environment using XAMPP with a MySQL database.
 
-## Tools & Technologies Used
+## Tools & Technologies Used⚙️
 
 - Python  
 - Selenium WebDriver  
