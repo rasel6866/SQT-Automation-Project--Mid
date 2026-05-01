@@ -10,7 +10,6 @@ It focuses on testing the core functionalities of a blood donation and blood req
 The system runs on a local environment using XAMPP with a MySQL database.
 
 ## Tools & Technologies Used⚙️
-
 - Python  
 - Selenium WebDriver  
 - Chrome Browser  
@@ -19,7 +18,6 @@ The system runs on a local environment using XAMPP with a MySQL database.
 - MySQL Database  
 
 ## Features Tested
-
 ### 🩸 Donor
 - Registration  
 - Login  
