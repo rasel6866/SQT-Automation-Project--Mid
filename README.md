@@ -15,7 +15,7 @@ The system runs on a local environment using XAMPP with a MySQL database.
 - Chrome Browser  
 - ChromeDriver  
 - XAMPP (Apache & MySQL)  
-- MySQL Database  
+- MySQL Database
 
 ## Features Tested
 ### 🩸 Donor
